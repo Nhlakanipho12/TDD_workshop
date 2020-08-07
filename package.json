@@ -1,0 +1,14 @@
+{
+  "name": "c21_tdd_dom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsdom": "^16.3.0"
+  }
+}
